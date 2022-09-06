@@ -2,3 +2,6 @@
 Profesor: Jorge Melnik  
 ## Estudiantes  
 Alejandra Benitez
+Santiago Panozzo 
+Mateo Rodríguez
+Facundo Martínez
